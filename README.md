@@ -1,5 +1,5 @@
 ## Hello there, I am NeilP06 👋
-Welcome to my Github page!
+_Welcome to my Github page and thank you for visiting!-
 
 ###### Who am I? 
 I am a 16-year-old programmer from Chicago, Illnois, who primarily programs in Java and Python, and sometimes creates some interesting from these two languages! 
