@@ -1,4 +1,4 @@
-## Hello there, I am NeilP06 
+## Hello there, I am NeilP06! 👋 
 _Welcome to my Github page and thank you for visiting!_
 
 ###### Q: Who are you? 
