@@ -2,7 +2,7 @@
 _Welcome to my Github page and thank you for visiting!_
 
 ###### Q: Who are you? 
-I am a 16-year-old programmer from Chicago, Illnois, who primarily programs in Java and Python, and sometimes creates some interesting from these two languages! 
+I am a 16-year-old programmer from Chicago, Illinois, who primarily programs in Java and Python, and sometimes creates some interesting from these two languages! 
 
 ###### Q: What are you working on currently?
 Well, I'm currently focused on learning more about data structures as I want to obtain a decent amount on knowledge for the more important data structures, and if I'm not doing this, I'd otherwise be practicing for the USACO, participating in hackathons, or just writing sports-data articles on my sports website, https://thesidelinestat.com!
