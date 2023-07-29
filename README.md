@@ -14,4 +14,4 @@ I plan to pursue research in the educational field this summer as I find the col
 Website → [Click here!](https://neilpuroh.it/) <br>
 LinkedIn → [Click here!](https://linkedin.com/in/neilpurohit06) <br>
 Replit → [Click here!](https://replit.com/@neilpurohit06) <br>
-Contact Me --> [Click here!](mailto:me@neilpuroh.it) <br>
+Contact Me → [Click here!](mailto:me@neilpuroh.it) <br>
