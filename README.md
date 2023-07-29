@@ -11,6 +11,7 @@ Currently, I am interning in the Data Analytics field for a pharmaceutical compa
 I plan to pursue research in the educational field this summer as I find the collaboration of data analytics & educational testing interesting. I am also registered for some significant programming competitions, so updates coming soon!
 
 ###### My Other Links
-Website (to be updated...) → [Click here!](https://neilp06.net/) <br>
+Website → [Click here!](https://neilpuroh.it/) <br>
 LinkedIn → [Click here!](https://linkedin.com/in/neilpurohit06) <br>
 Replit → [Click here!](https://replit.com/@neilpurohit06) <br>
+Contact Me --> [Click here!](mailto:me@neilpuroh.it) <br>
