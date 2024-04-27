@@ -1,17 +1,12 @@
-## Hello there, I am NeilP06! 👋 
-_Welcome to my GitHub page and thank you for visiting!_
+## Hello there, I'm Neil! 👋 
 
-###### Q: Who are you? 
-I am a 17-year-old full-stack developer from Chicago, having over five years of programming experience. During this time, I experimented with many programming languages, but I specifically got interested in Java & Python! I am also proficient in the MERN (MongoDB-Express-React-Node) stack.
+###### Who am I? 
+I am a 17 y.o. full-stack developer from Chicago with over five years of programming experience. I plan to major in StatML + CS at Carnegie Mellon University as an upcoming freshman. I currently utilize Python, Java, and React (.js + Native) as my main programming languages. Some of my projects include [ProspectiveProgramming](https://prospectiveprogramming.org/), LFHSBats (an IDE interface designed for APCSA classes at my high school; WIP), and [FuturePearStudios](https://futurepearstudios.co/). 
 
-###### Q: What are you working on currently?
-Currently, I am interning in the Data Analytics field for a pharmaceutical company, but I also work on building games for my game-development studio (FuturePearStudios) and building prototypes for my non-profit (ProspectiveProgramming). I  also participate in hackathons here and there.
-
-###### Q: What are you planning to do next?
-I plan to pursue research in the educational field this summer as I find the collaboration of data analytics & educational testing interesting. I am also registered for some significant programming competitions, so updates coming soon!
+###### What am I currently doing?
+I am currently dual-enrolled in [IIT _CS 331: Data Structures and Algorithms_](https://moss.cs.iit.edu/cs331/) to solidify my comprehension of data structures and to apply them in a Python environment (to add on, I have previous experience in using data structures in a Java-based environment). I'm also learning more advanced SQL concepts in my free time.
 
 ###### My Other Links
 Website → [Click here!](https://neilpuroh.it/) <br>
 LinkedIn → [Click here!](https://linkedin.com/in/neilpurohit06) <br>
-Replit → [Click here!](https://replit.com/@neilpurohit06) <br>
 Contact Me → [Click here!](mailto:me@neilpuroh.it) <br>
