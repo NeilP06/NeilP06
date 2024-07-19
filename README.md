@@ -10,6 +10,6 @@ I know Java, Python, Javascript, SQL, React (.js & Native), Next.js, and HTML/CS
 I am taking intro-level Machine Learning classes on Coursera this summer to improve my depth in the ML/AI space before entering college.
 
 ### My Other Links
-Website Portfolio → [Click here!](https://neilpuroh.it/) <br>
-LinkedIn → [Click here!](https://linkedin.com/in/neilpurohit06) <br>
-Contact Me → [Click here!](mailto:me@neilpuroh.it) <br>
+Website Portfolio → [Click here](https://neilpuroh.it/) <br>
+LinkedIn → [Click here](https://linkedin.com/in/neilpurohit06) <br>
+Contact Me → [Click here](mailto:me@neilpuroh.it) <br>
