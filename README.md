@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Neil! Here's a little bit about me!
+# Hello there, I'm Neil! Here's a little bit about me!
 
 ## "Who are you?"
 I am a college student from Chicago with over seven years of programming experience. As a rising junior, I major in both Computer Science and Statistics & Machine Learning at [Carnegie Mellon University](https://cs.cmu.edu). I am deeply interested in machine learning systems, reinforcement learning, and applied AI (especially in fields such as computer vision and NLP). I strive to learn something new each month, and I try to do so by participating (& winning!) in hackathons, working on side projects, or simply talking about newly released tech. I love to build, starting from the idea to the finishing touches.
